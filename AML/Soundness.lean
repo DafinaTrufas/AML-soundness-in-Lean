@@ -1,4 +1,4 @@
-import AML.Syntax
+import AML.Proof
 import AML.Semantics
 
 set_option linter.unusedSectionVars false
