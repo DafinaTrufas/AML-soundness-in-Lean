@@ -1,13 +1,3 @@
-# AML
+# AML soundness in Lean
 
-## GitHub configuration
-
-To set up your new GitHub repository, follow these steps:
-
-* Under your repository name, click **Settings**.
-* In the **Actions** section of the sidebar, click "General".
-* Check the box **Allow GitHub Actions to create and approve pull requests**.
-* Click the **Pages** section of the settings sidebar.
-* In the **Source** dropdown menu, select "GitHub Actions".
-
-After following the steps above, you can remove this section from the README file.
+This repository contains a formalization of first-order matching logic with application and definedness, in the Lean proof assistant. The main result proved in this formalization is the soundness theorem, with respect to a new, simpler axiomatization.
